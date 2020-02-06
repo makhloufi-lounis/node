@@ -1,2 +1,2 @@
 # node
-Une mini application node qui retourne current date sur une 
+Une mini application node qui retourne current date et qui tourne sous docker.
