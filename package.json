@@ -1,0 +1,11 @@
+{
+    "name": "testnode",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
